@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="../my-app/assets/print.gif" style="max-height: 450px" alt="Users Dashboard" />
+  <img src="./assets/print.gif" style="max-height: 450px" alt="Users Dashboard" />
 
   &#xa0;
 
