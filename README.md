@@ -50,7 +50,7 @@ Describe your project
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Users management;\
+:heavy_check_mark: Users management;
 
 ## :rocket: Technologies ##
 
