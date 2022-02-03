@@ -3,7 +3,7 @@
 
   &#xa0;
 
-  <!-- <a href="https://codigodoallan.netlify.app">Demo</a> -->
+  <a href="https://61fc0f47ac67768007abf27f--blissful-lovelace-fdef39.netlify.app/">Demo</a>
 </div>
 
 <h1 align="center">Users Dashboard</h1>
