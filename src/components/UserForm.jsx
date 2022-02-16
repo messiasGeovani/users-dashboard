@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 
 import { useDispatch } from "react-redux";
-import { addUser, updateUser } from "../store/actions";
+import { addUser, updateUser } from "../store/users";
 
 import { v4 as uuidv4 } from "uuid";
 import { useUser } from "../context/UserContext";

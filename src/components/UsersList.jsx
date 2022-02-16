@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { useUser } from "../context/UserContext";
-import { deleteUser, getUsersFetch } from "../store/actions";
+import { deleteUser, getUsersFetch } from "../store/users";
 
 import Table from "@mui/material/Table";
 import TableBody from "@mui/material/TableBody";
